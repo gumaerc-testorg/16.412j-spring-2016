@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Videos for Advanced Lectures
 uid: d55ba1f5-1999-fdb2-f0db-a10fa56076dc
 videos:

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ad1eda11-401d-d0ef-7523-140bf389dc45
 ---
@@ -100,20 +102,6 @@ _16.412 Cognitive Robotics_ can be applied toward a [doctorate degree in Aeronau
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tables with chairs facing chalkboards at the front of the room.]({{< resource_file 5ab31546-b2cd-5391-5e47-c6ad064f718f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture  
-    
-    Lectures were held in a classroom equipped with chalkboards, tables, and an A/V system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
