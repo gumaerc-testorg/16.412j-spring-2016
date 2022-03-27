@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113e0fea-8108-215c-aeb0-93800e2ee645
 resourcetype: Document
 title: 'Cognitive Robotics: Constraint Programming II: Solving CPs Using Propagation
   and Basic Search'

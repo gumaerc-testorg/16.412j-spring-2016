@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Document
 title: 'Cognitive Robotics: Problem Set 1: Conflict-Directed A*'
 uid: d890a1ce-44d7-9abd-dc8c-8eb971a59d7f

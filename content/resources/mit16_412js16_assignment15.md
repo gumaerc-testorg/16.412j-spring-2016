@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Document
 title: 'Cognitive Robotics: Grand Challenge Assignment'
 uid: 119ed01b-ce48-8b6e-1b6e-a56c1e4bce33

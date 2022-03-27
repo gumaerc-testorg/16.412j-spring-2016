@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Advanced Lecture 3: Image Classification via Deep Learning'
 uid: b1a46c40-47bf-1a80-4c7b-6c1e08d5fa44
 video_files:

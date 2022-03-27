@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Advanced Lecture 4: Monte Carlo Tree Search'
 uid: 982375a3-ba05-137b-f0a3-80fd51dce9ce
 video_files:

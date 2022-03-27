@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Document
 title: 'Cognitive Robotics: Assignment for Advanced Lecture: Request for Topics'
 uid: cc3da000-5008-25e5-d397-03da683a9ac7

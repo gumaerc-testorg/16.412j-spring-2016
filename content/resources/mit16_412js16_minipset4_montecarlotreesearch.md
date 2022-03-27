@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Other
 title: Mini Problem Set 4
 uid: 2220258b-5c7f-ced6-0caa-1746d2e94e04

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Document
 title: 'Cognitive Robotics: Problem Set 3: PDDL Modeling'
 uid: 1a50f922-a490-c0ce-afe1-7b09099905df

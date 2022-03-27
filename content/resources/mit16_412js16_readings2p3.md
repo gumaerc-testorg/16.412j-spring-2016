@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 113e0fea-8108-215c-aeb0-93800e2ee645
 resourcetype: Document
 title: 'Cognitive Robotics: Propositional Satisfiability: Unit Propagation and DPLL'
 uid: 8a379d4a-4812-95b0-4f66-058715070421

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: f699691d-a5ce-fd34-0372-701aba11f671
 resourcetype: Other
 title: 'Cognitive Robotics: ROS Activity Server Template'
 uid: 4d824b4a-1015-c2c3-b110-a71b06738e4e

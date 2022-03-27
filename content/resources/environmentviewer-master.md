@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: f699691d-a5ce-fd34-0372-701aba11f671
 resourcetype: Other
 title: 'Cognitive Robotics: Environment Viewer Tool'
 uid: 8e6125d4-e25f-00af-9d02-08c35b3e8589
