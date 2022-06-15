@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page provides the video recordings of the advanced lectures in the
+  MIT course 16.412J Cognitive Robotics of Spring 2016, taught by Prof. Brian Williams.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ videos:
   website: 16-412j-cognitive-robotics-spring-2016
 ---
 
-The following videos are a collection of advanced lectures presented by the MIT students. The lecture notes are available in the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes#AdvancedLectures) section.
+The following videos are a collection of advanced lectures presented by the MIT students. The lecture notes are available in the {{% resource_link 6e00733a-419f-a465-63ff-6b8eed7e9f82 "Lecture Notes" "#AdvancedLectures" %}} section.
 
 {{< video-gallery "d55ba1f5-1999-fdb2-f0db-a10fa56076dc" >}}
 

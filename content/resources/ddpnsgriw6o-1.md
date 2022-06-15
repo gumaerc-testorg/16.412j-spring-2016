@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-412j-cognitive-robotics-spring-2016/b9e1d3715aad30967a9f17d43ece2e40_DdPNsGRIw6o.pdf
+file: /courses/16-412j-cognitive-robotics-spring-2016/b9e1d3715aad30967a9f17d43ece2e40_DdPNsGRIw6o.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

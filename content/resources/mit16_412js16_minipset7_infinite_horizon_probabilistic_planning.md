@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-412j-cognitive-robotics-spring-2016/c3ebd506ecb5f2189a88b715331681f4_MIT16_412JS16_MiniPSet7_infinite_horizon_probabilistic_planning.zip
+file: /courses/16-412j-cognitive-robotics-spring-2016/c3ebd506ecb5f2189a88b715331681f4_MIT16_412JS16_MiniPSet7_infinite_horizon_probabilistic_planning.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides the assigned readings for the MIT course 16.412J Cognitive
+  Robotics of Spring 2016, taught by Prof. Brian Williams.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -17,9 +19,9 @@ Williams, Brian C., Michel D. Ingham, et al. "[Model-based Programming of Fault-
 Prerequisite Readings for Lecture 2
 -----------------------------------
 
-*   [Informed search (PDF - 2.2MB)]({{< baseurl >}}/resources/mit16_412js16_readings2p1)
-*   [Constraint programming II: Solving CPs using propagation and basic search (PDF - 1.1MB)]({{< baseurl >}}/resources/mit16_412js16_readings2p2)
-*   [Propositional Satisfiability: Unit Propagation and DPLL (PDF)]({{< baseurl >}}/resources/mit16_412js16_readings2p3)
+*   {{% resource_link 61fe60f3-9c78-e545-e468-79b892c9aeb7 "Informed search (PDF - 2.2MB)" %}}
+*   {{% resource_link c7ca7830-c496-d642-12e3-959c0d9784c0 "Constraint programming II: Solving CPs using propagation and basic search (PDF - 1.1MB)" %}}
+*   {{% resource_link 8a379d4a-4812-95b0-4f66-058715070421 "Propositional Satisfiability: Unit Propagation and DPLL (PDF)" %}}
 
 Additional Reading for Lecture 2
 --------------------------------

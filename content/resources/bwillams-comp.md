@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-412j-cognitive-robotics-spring-2016/98e892aed4e56a1a8b5a7b82a0e0e653_BWillams-comp.jpg
+file: /courses/16-412j-cognitive-robotics-spring-2016/98e892aed4e56a1a8b5a7b82a0e0e653_BWillams-comp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

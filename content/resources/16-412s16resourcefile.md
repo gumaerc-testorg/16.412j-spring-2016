@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-412j-cognitive-robotics-spring-2016/3f0739aa808805e51c445195485a7ebb_16-412s16ResourceFile.pdf
+file: /courses/16-412j-cognitive-robotics-spring-2016/3f0739aa808805e51c445195485a7ebb_16-412s16ResourceFile.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
