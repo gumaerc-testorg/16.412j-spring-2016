@@ -1,16 +1,19 @@
 ---
 content_type: page
+description: In this section Professor Brian Williams describes various aspects of
+  how he teaches 16.412 Cognitive Robotics.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ad1eda11-401d-d0ef-7523-140bf389dc45
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-![Man sitting at desk. Bookshelves with books to his left.]({{< resource_file 98e892ae-d4e5-6a1a-8b5a-7b82a0e0e653 >}})
+{{< resource 98e892ae-d4e5-6a1a-8b5a-7b82a0e0e653 >}}
 
 Aeronautics and Astronautics Professor Brian Williams in his office on the MIT campus. (Image by MIT OpenCourseWare.)
 
@@ -38,7 +41,7 @@ There’s also no better way to understand something than to teach it, implement
 
 It’s also the case that developing lectures is hard work. Just producing a first draft of a lecture can take 20 to 30 hours. And then you need to spend another 6 hours improving it. So, to develop a high-quality lecture, you really need two people working together.
 
-![Robot standing in a room.]({{< resource_file b53bac25-200f-69d6-a355-43610c6c8012 >}})
+{{< resource b53bac25-200f-69d6-a355-43610c6c8012 >}}
 
 Domo Robot, developed by Aron Edsinger and Jeff Weber, is able to adapt to novel situations. It is on display in the MIT Computer Science and Artificial Intelligence Lab. (Image by MIT OpenCourseWare.)
 
@@ -62,7 +65,7 @@ Domo Robot, developed by Aron Edsinger and Jeff Weber, is able to adapt to novel
 
 **OCW**: How do you assess student work completed collaboratively?
 
-![Aerial view of room with robots and computers.]({{< resource_file 5182a918-0eb6-ba25-f558-a774f71c056f >}})
+{{< resource 5182a918-0eb6-ba25-f558-a774f71c056f >}}
 
 Robots in the MIT Computer Science and Artificial Intelligence Lab. (Image by MIT OpenCourseWare.)
 
@@ -84,14 +87,13 @@ Another piece of the assessment puzzle is providing good feedback. The place whe
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)_,_ [_6.042 Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015/), or _16.09 Statistics and Probability._
+[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013)_,_ [_6.042 Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015), or _16.09 Statistics and Probability._
 
-[_16.410 Principles of Autonomy and Decision Making_](/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/), [_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010/), or [_6.825 Techniques in Artificial Intelligence_](/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/)
+[_16.410 Principles of Autonomy and Decision Making_](/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010), [_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010), or [_6.825 Techniques in Artificial Intelligence_](/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002)
 
 ### Requirements Satisfied
 
@@ -101,47 +103,28 @@ _16.412 Cognitive Robotics_ can be applied toward a [doctorate degree in Aeronau
 
 Every spring semester
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tables with chairs facing chalkboards at the front of the room.]({{< resource_file 5ab31546-b2cd-5391-5e47-c6ad064f718f >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture  
-    
-    Lectures were held in a classroom equipped with chalkboards, tables, and an A/V system.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
 - 10% Participation & attendance (mini quizzes)
 - 40% Problem sets
 - 30% Advanced lecture & implementation
 - 20% Grand challenge
 
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## Student Information
 
-{{< tableclose >}}
+### Enrollment
 
-Student Information
--------------------
-
-![42 students took this course when it was taught in Spring 2016.]({{< resource_file 4eaae536-7446-2e47-0776-6e2f059c3fd2 >}})
+42 students
 
 ### Breakdown by Year
 
@@ -157,19 +140,16 @@ Students come to the course with a variety of interests, but all are passionate 
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 2 times per week for 1.5 hours per session; 25 sessions total.
-*   Sessions included advanced lectures, delivered by students, on topics related to the grand challenge.
-*   Some sessions include mini-quizzes to assess students’ understanding of content.
+- Met 2 times per week for 1.5 hours per session; 25 sessions total.
+- Sessions included advanced lectures, delivered by students, on topics related to the grand challenge.
+- Some sessions include mini-quizzes to assess students’ understanding of content.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed required readings and worked on problem that asked them to perform modeling exercises, using existing autonomy tools, and implement algorithms (sometimes from scratch).
+- Students completed required readings and worked on problem that asked them to perform modeling exercises, using existing autonomy tools, and implement algorithms (sometimes from scratch).

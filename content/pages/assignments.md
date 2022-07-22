@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page provides the assigned problem sets for the MIT course 16.412J
+  Cognitive Robotics of Spring 2016, taught by Prof. Brian Williams.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 ---
@@ -9,7 +14,7 @@ In this class, students are given the following problem sets to perform modeling
 Problem Sets
 ------------
 
-The Cognitive Robotics Virtual Machine (VM) needed to complete the problem sets is provided in the "[Related Resources]({{< baseurl >}}/pages/related-resources)" section. Please follow the instructions provided in Assignment 1 to install it.
+The Cognitive Robotics Virtual Machine (VM) needed to complete the problem sets is provided in the "{{% resource_link f699691d-a5ce-fd34-0372-701aba11f671 "Related Resources" %}}" section. Please follow the instructions provided in Assignment 1 to install it.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -29,7 +34,7 @@ TOPICS / INSTRUCTIONS / supporting files
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Conflict-Directed A\* (PDF)]({{< baseurl >}}/resources/mit16_412js16_assignment1)
+{{% resource_link d890a1ce-44d7-9abd-dc8c-8eb971a59d7f "Conflict-Directed A\* (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +52,7 @@ Scheduling—All instructions are in the course [virtual machine (OVA - 2GB)](/a
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[PDDL Modeling (PDF)]({{< baseurl >}}/resources/mit16_412js16_assignment4)
+{{% resource_link 1a50f922-a490-c0ce-afe1-7b09099905df "PDDL Modeling (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +61,7 @@ Scheduling—All instructions are in the course [virtual machine (OVA - 2GB)](/a
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Hybrid State Estimation Modeling (PDF - 1.2MB)]({{< baseurl >}}/resources/mit16_412js16_assignment5)
+{{% resource_link cefcbd57-980d-8654-41d1-15e5c2155b6a "Hybrid State Estimation Modeling (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,9 +82,9 @@ Advanced Lecture and Mini Problem Sets
 
 In addition, students will select a research topic following the guidelines provided below and deliver an advanced lecture to the class in groups of five to six students.
 
-[Assignment for Advanced Lecture: Request for Topics (PDF)]({{< baseurl >}}/resources/mit16_412js16_assignment3)
+{{% resource_link cc3da000-5008-25e5-d397-03da683a9ac7 "Assignment for Advanced Lecture: Request for Topics (PDF)" %}}
 
-[Assignment for Advanced Lecture & Implementation (PDF)]({{< baseurl >}}/resources/mit16_412js16_assignment6)
+{{% resource_link 24a27214-f8df-b205-b06f-f245c0707cfa "Assignment for Advanced Lecture & Implementation (PDF)" %}}
 
 To copmlete this assignment, students also need to choose one additional mini problem set from below and turn it in.
 
@@ -101,7 +106,7 @@ TOPICS / INSTRUCTIONS / supporting files
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Incremental Path Planning (ZIP file)]({{< baseurl >}}/resources/mit16_412js16_minipset1_incremental_path_planning)
+{{% resource_link 8597f626-136f-f95c-9c32-78a7038e23d3 "Incremental Path Planning (ZIP file)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +115,7 @@ TOPICS / INSTRUCTIONS / supporting files
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Semantic Localization (ZIP file)]({{< baseurl >}}/resources/mit16_412js16_minipset2_semantic_localization)
+{{% resource_link 4a263099-790f-a007-1069-9a92583abe75 "Semantic Localization (ZIP file)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ TOPICS / INSTRUCTIONS / supporting files
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Monte Carlo Tree Search﻿ (ZIP file, 3.6MB)]({{< baseurl >}}/resources/mit16_412js16_minipset4_montecarlotreesearch)
+{{% resource_link 2220258b-5c7f-ced6-0caa-1746d2e94e04 "Monte Carlo Tree Search﻿ (ZIP file, 3.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +142,7 @@ TOPICS / INSTRUCTIONS / supporting files
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Reachability (ZIP file)]({{< baseurl >}}/resources/mit16_412js16_minipset5_reachability)
+{{% resource_link 26d604f4-f7c3-97c2-2564-7001b159b251 "Reachability (ZIP file)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +160,7 @@ TOPICS / INSTRUCTIONS / supporting files
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Mini Problem Set 5: Probablistic and Infinite Horizon Planning (ZIP file)]({{< baseurl >}}/resources/mit16_412js16_minipset7_infinite_horizon_probabilistic_planning)
+{{% resource_link c3ebd506-ecb5-f218-9a88-b715331681f4 "Mini Problem Set 5: Probablistic and Infinite Horizon Planning (ZIP file)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,6 +170,6 @@ TOPICS / INSTRUCTIONS / supporting files
 Final Project – Grand Challenge
 -------------------------------
 
-Students will deliver the [Grand Challenge Assignment (PDF)]({{< baseurl >}}/resources/mit16_412js16_assignment15) at the end of semester. This group project involves modeling, algorithm implementation, and debugging in a simulation environment.
+Students will deliver the {{% resource_link 119ed01b-ce48-8b6e-1b6e-a56c1e4bce33 "Grand Challenge Assignment (PDF)" %}} at the end of semester. This group project involves modeling, algorithm implementation, and debugging in a simulation environment.
 
-Additional tools and resources are provided in the "[Related Resources]({{< baseurl >}}/pages/related-resources)" section.
+Additional tools and resources are provided in the "{{% resource_link f699691d-a5ce-fd34-0372-701aba11f671 "Related Resources" %}}" section.

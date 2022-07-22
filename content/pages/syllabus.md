@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the course policy for the MIT course 16.412J Cognitive
+  Robotics of Spring 2016, taught by Prof. Brian Williams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1596b9a4-7c80-ee96-305e-646b24c5746d
 ---
