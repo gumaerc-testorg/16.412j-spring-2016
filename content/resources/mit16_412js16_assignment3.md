@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/cc3da000500825e5d39703da68
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Assignment for Advanced Lecture: Request for Topics'
 uid: cc3da000-5008-25e5-d397-03da683a9ac7
 ---
 This resource contains information regarding cognitive robotics: Assignment for advanced lecture: request for topics.
-

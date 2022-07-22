@@ -4,6 +4,7 @@ description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/f91a6a37aad9eb041e4d420bb1f76cf9_4u9W1xOuts.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

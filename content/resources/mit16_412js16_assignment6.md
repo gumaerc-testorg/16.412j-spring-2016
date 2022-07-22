@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/24a27214f8dfb205b06ff245c0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Assignment for Advanced Lecture & Implementation'
 uid: 24a27214-f8df-b205-b06f-f245c0707cfa
 ---
 This resource contains information regarding cognitive robotics: Assignment for advanced lecture & implementation.
-

@@ -5,6 +5,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/2220258b5c7fced60caa1746d2
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

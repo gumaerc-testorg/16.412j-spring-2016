@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/c7ca7830c496d64212e3959c0d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Cognitive Robotics: Constraint Programming II: Solving CPs Using Propaga
 uid: c7ca7830-c496-d642-12e3-959c0d9784c0
 ---
 This resource contains information regarding cognitive robotics: Constraint programming II: solving CPs using propagation and basic search.
-

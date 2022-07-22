@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/1a50f922a490c0ceafe17b0909
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Problem Set 3: PDDL Modeling'
 uid: 1a50f922-a490-c0ce-afe1-7b09099905df
 ---
 This resource contains information regarding cognitive robotics: Problem set 3: PDDL modeling.
-

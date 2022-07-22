@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/d890a1ce44d79abddc8c8eb971
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Problem Set 1: Conflict-Directed A*'
 uid: d890a1ce-44d7-9abd-dc8c-8eb971a59d7f
 ---
 This resource contains information regarding cognitive robotics: Problem set 1: conflict-directed A*.
-

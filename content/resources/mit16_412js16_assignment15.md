@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/119ed01bce488b6e1b6ea56c1e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Grand Challenge Assignment'
 uid: 119ed01b-ce48-8b6e-1b6e-a56c1e4bce33
 ---
 This resource contains information regarding cognitive robotics: Grand challenge assignment.
-

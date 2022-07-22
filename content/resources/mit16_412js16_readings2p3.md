@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/8a379d4a481295b04f66058715
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Propositional Satisfiability: Unit Propagation and D
 uid: 8a379d4a-4812-95b0-4f66-058715070421
 ---
 This resource contains information regarding cognitive robotics: Propositional satisfiability: unit propagation and DPLL.
-

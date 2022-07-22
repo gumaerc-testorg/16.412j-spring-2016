@@ -6,6 +6,7 @@ file: /courses/16-412j-cognitive-robotics-spring-2016/61fe60f39c78e545e46879b892
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Cognitive Robotics: Informed Search'
 uid: 61fe60f3-9c78-e545-e468-79b892c9aeb7
 ---
 This resource contains information regarding cognitive robotics: Informed search.
-
