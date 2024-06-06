@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding cognitive robotics: Environment
   viewer tool.'
 file: /courses/16-412j-cognitive-robotics-spring-2016/8e6125d4e25f00af9d0208c35b3e8589_EnvironmentViewer-master.zip
+file_size: 7462
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

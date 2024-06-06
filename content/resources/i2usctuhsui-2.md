@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/076206661295513bb40420471f455cce_I2uSCTUHsUI.vtt
+file_size: 135826
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

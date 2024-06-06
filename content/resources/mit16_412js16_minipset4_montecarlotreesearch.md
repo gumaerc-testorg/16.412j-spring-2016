@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/2220258b5c7fced60caa1746d2e94e04_MIT16_412JS16_MiniPSet4_MonteCarloTreeSearch.zip
+file_size: 3560418
 file_type: application/zip
 learning_resource_types:
 - Assignments
