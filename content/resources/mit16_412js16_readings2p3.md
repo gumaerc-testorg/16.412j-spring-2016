@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding cognitive robotics: Propositional
   satisfiability: unit propagation and DPLL.'
 file: /courses/16-412j-cognitive-robotics-spring-2016/8a379d4a481295b04f66058715070421_MIT16_412JS16_Readings2P3.pdf
+file_size: 525976
 file_type: application/pdf
 learning_resource_types:
 - Readings

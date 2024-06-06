@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding cognitive robotics: ROS
   activity server template.'
 file: /courses/16-412j-cognitive-robotics-spring-2016/4d824b4a1015c2c3b110a71b06738e4e_ActivityServerTemplate-master.zip
+file_size: 7841
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

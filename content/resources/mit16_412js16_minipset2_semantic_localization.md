@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-412j-cognitive-robotics-spring-2016/4a263099790fa00710699a92583abe75_MIT16_412JS16_MiniPSet2_semantic_localization.zip
+file_size: 174167
 file_type: application/zip
 learning_resource_types:
 - Assignments
