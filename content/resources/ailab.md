@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-412j-cognitive-robotics-spring-2016/5182a9180eb6ba25f558a774f71c056f_AILab.jpg
+file: /ol-ocw-studio-app/courses/16-412j-cognitive-robotics-spring-2016/5182a9180eb6ba25f558a774f71c056f_AILab.jpg
 file_size: 33979
 file_type: image/jpeg
 image_metadata:
