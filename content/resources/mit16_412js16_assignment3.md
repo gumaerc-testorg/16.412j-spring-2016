@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding cognitive robotics: Assignment
   for advanced lecture: request for topics.'
-file: /ol-ocw-studio-app/courses/16-412j-cognitive-robotics-spring-2016/cc3da000500825e5d39703da683a9ac7_MIT16_412JS16_Assignment3.pdf
+file: /courses/16-412j-cognitive-robotics-spring-2016/cc3da000500825e5d39703da683a9ac7_MIT16_412JS16_Assignment3.pdf
 file_size: 137916
 file_type: application/pdf
 learning_resource_types:
