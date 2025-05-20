@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-412j-cognitive-robotics-spring-2016/5ab31546b2cd53915e47c6ad064f718f_16-412room-comp.jpg
+file: /courses/16-412j-cognitive-robotics-spring-2016/5ab31546b2cd53915e47c6ad064f718f_16-412room-comp.jpg
 file_size: 13878
 file_type: image/jpeg
 image_metadata:
