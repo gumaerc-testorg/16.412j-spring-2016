@@ -1,9 +1,9 @@
 ---
+body: ''
 content_type: resource
-description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/16-412j-cognitive-robotics-spring-2016/4a263099790fa00710699a92583abe75_MIT16_412JS16_MiniPSet2_semantic_localization.zip
-file_size: 174167
+file: /ol-ocw-studio-app/courses/16-412j-cognitive-robotics-spring-2016/visual_classification_through_deep_learning.zip
+file_size: 47186852
 file_type: application/zip
 image_metadata:
   caption: ''
@@ -12,13 +12,9 @@ image_metadata:
 learning_resource_types:
 - Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-ocw_type: OCWFile
-parent_title: Assignments
-parent_type: CourseSection
-parent_uid: 8b94f4e9-7763-c467-05f7-fdb6ad64c067
 resourcetype: Other
-title: Mini Problem Set 2
-uid: 4a263099-790f-a007-1069-9a92583abe75
+title: Mini Problem Set 3
+uid: 8484074f-e4d1-4be1-ac3f-5e1ad307c4af
 video_files:
   archive_url: ''
   video_captions_file: ''
