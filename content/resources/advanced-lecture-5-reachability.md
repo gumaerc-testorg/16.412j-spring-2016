@@ -1,10 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-file_size: '172316343'
-learning_resource_types: []
+file_size: 172316343
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -23,5 +30,6 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/qgL0cA7GkJo/default.jpg
   video_transcript_file: /courses/16-412j-cognitive-robotics-spring-2016/3745f624ffefcafe45775742a24c44f8_qgL0cA7GkJo.pdf
 video_metadata:
+  source: youtube
   youtube_id: qgL0cA7GkJo
 ---
